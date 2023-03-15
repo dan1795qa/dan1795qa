@@ -1,5 +1,7 @@
 ### Hi there 
-crcrcrc
+I've a background in geodesy and cartography. I have a greet interest in the field of software testing. I'm additionally paying my attention to studying SQL and
+Python. I also take interest in testing and automation of GUI(Python) and API (Python, JavaScript) tests. It isinteresting to work on activities related to improving the quality of the team / process of creating the final product. I'm motivated, quick learner, hardworking, responsible and attentive to details.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
