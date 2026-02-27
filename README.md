@@ -1,26 +1,19 @@
 # 🚀 QA Portfolio
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourprofile&style=flat-square&color=blueviolet)
-  ![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-brightgreen?style=flat-square)
-  
-</div>
-
 Привет! 👋 Я QA-инженер с опытом в тестировании веб-приложений и API.
 
 ---
 
 ## 👨‍💼 Обо мне
 
-Опытный QA-специалист с **3+ годами** опыта в области тестирования программного обеспечения. Специализируюсь на функциональном и регрессионном тестировании, автоматизации тестов и обеспечении качества. Стремлюсь выявлять критические ошибки на ранних стадиях разработки.
+  QA-специалист с **коммерческим опытом тестирования более 6 месяцев**. Специализируюсь на тестировании web-приложений, автоматизации тестов и обеспечении качества. На проектах проводил исследовательское и ad-hoc тестирование  в рамках web-тестирования и  тестирования API, приобрел практический опыт работы с DevTools, Postman, Charles Proxy. Развил навыки по работе с документацией и написанию баг-репортов, разрабатывал с нуля чек-листы, уточнял требования у стейкхолдеров. Имею практические навыки написания фреймворка по автоматизации API на Python, продолжаю развивать данные навыки.  В дальнейшем планирую освоить автоматизацию тестирования UI. 
+  Умею анализировать большой объем информации, выстраивать хорошие отношения в команде.  Стремлюсь выявлять критические ошибки на ранних стадиях разработки. Спокойно отношусь к изменениям, умею быстро переключаться между задачами. Хотел бы в дальнейшем углублять навыки в тестировании API и интеграционном тестировании микросервисов. Осваиваю тестирование GraphQL, gRPC, WebSocket.
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourhandle)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danya1795)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan1795dan@gmail.com)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dan1795qa)
   
 </div>
 
@@ -51,8 +44,6 @@
 | Язык | Уровень | Иконка |
 |------|---------|--------|
 | **Python** | Продвинутый | <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" title="Python"/></a> |
-| **JavaScript** | Средний | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" title="JavaScript"/></a> |
-| **Java** | Базовый | <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" title="Java"/></a> |
 
 ### 💡 Мягкие навыки
 
@@ -110,55 +101,6 @@
 
 </details>
 
-<details>
-<summary>
-  <b>🌐 Проект 2: Тестирование REST API</b> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status">
-</summary>
-
-**🔧 Технологии**: 
-<a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="35" title="Postman"/></a>
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" title="Python"/></a>
-<a href="https://rest-assured.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="REST Assured" width="35" title="REST Assured"/></a>
-
-- 🧪 Разработал набор тестов для **50+ endpoints**
-- 📝 Документировал все тест-кейсы в Confluence
-- 🐛 Найденные ошибки: валидация данных, проблемы с авторизацией
-- ✅ Достигнут **98% успешность** тестов
-
-**📎 [Примеры тестов →](https://github.com/username/api-testing)**
-
-</details>
-
-<details>
-<summary>
-  <b>⚡ Проект 3: Performance Testing</b> <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status">
-</summary>
-
-**🔧 Технологии**: 
-<a href="https://jmeter.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="JMeter" width="35" title="JMeter (Apache)"/></a>
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" title="Python"/></a>
-
-- 📊 Провел нагрузочное тестирование приложения
-- 🔍 Выявил bottlenecks в базе данных
-- 💾 Подготовил детальный отчет с рекомендациями
-- 🚀 Улучшения привели к **35% повышению производительности**
-
-**📎 [Документация →](https://github.com/username/performance-tests)**
-
-</details>
-
----
-
-## 📊 Статистика
-
-<div align="center">
-
-| 🐛 Багов найдено | 🔴 Критических | 🤖 Автотестов | ✅ Успешность | 📈 Проектов |
-|:---:|:---:|:---:|:---:|:---:|
-| **250+** | **35** | **150+** | **95%** | **8** |
-
-</div>
-
 ---
 
 ## 🎓 Образование и Сертификаты
@@ -181,34 +123,9 @@
 
 ### 🔗 Основные каналы связи
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Professional%20Profile)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourhandle)
-
-### 📱 Другие каналы
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79999999999)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-
-### 📧 Email адрес
-
-```
-your.email@example.com
-```
-
-</div>
-
----
-
-## 🔗 Полезные ссылки
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Blog%20о%20Тестировании-FF6B35?style=for-the-badge)](https://blog.example.com)
-[![Templates](https://img.shields.io/badge/Test%20Case%20Templates-4CAF50?style=for-the-badge)](https://github.com/yourprofile/test-templates)
-[![Bug Reports](https://img.shields.io/badge/Bug%20Report%20Template-F44336?style=for-the-badge)](https://github.com/yourprofile/bug-report-template)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danya1795)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan1795dan@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dan1795qa)
 
 </div>
 
@@ -220,7 +137,7 @@ your.email@example.com
 
 Буду рад обсудить вашу вакансию или сотрудничество!
 
-**📅 Последнее обновление**: Октябрь 2025
+**📅 Последнее обновление**: Март 2026
 
 [![Profile Updated](https://img.shields.io/badge/Profile-Updated-brightgreen?style=flat-square)](https://github.com/yourprofile)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
