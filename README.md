@@ -8,6 +8,10 @@ Hi there! 👋 I'm a QA Engineer with experience in web application and API test
 
 QA specialist with **6+ months of commercial testing experience**. I specialize in web application testing, test automation, and quality assurance.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+</div>
+
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danya1795)
