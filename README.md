@@ -34,7 +34,11 @@
 ### ⚙️ Методологии
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🧰 Баг-трекинговая система и TMS
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestIT](https://img.shields.io/badge/TestIT-6E4AFF?style=for-the-badge&logoColor=white)
+![Qase](https://img.shields.io/badge/Qase-1ABC9C?style=for-the-badge&logoColor=white)
 
 ### 🌐 Веб и архитектура
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,19 +49,23 @@
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Charles](https://img.shields.io/badge/Charles-333333?style=for-the-badge&logoColor=white)
+![Proxyman](https://img.shields.io/badge/Proxyman-8B44AC?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Базы данных
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Инструменты
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestIT](https://img.shields.io/badge/TestIT-6E4AFF?style=for-the-badge&logoColor=white)
-![Qase](https://img.shields.io/badge/Qase-1ABC9C?style=for-the-badge&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 📱 Мобильное тестирование
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-333333?style=for-the-badge&logoColor=white)
 ![Proxyman](https://img.shields.io/badge/Proxyman-8B44AC?style=for-the-badge&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+### 🧰 Другие инструменты
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI--инструменты-412991?style=for-the-badge&logo=openai&logoColor=white)
 
