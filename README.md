@@ -61,7 +61,7 @@
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI--инструменты-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### ⚡ Автоматизация тестирования
+### ⚡ Автоматизация тестирования API
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-009688?style=for-the-badge&logoColor=white)
