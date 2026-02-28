@@ -6,7 +6,7 @@ Hi there! 👋 I'm a QA Engineer with experience in web application and API test
 
 ## 👨‍💼 About Me
 
-QA specialist with **6+ months of commercial testing experience**. I specialize in web application testing, test automation, and quality assurance.
+QA specialist with **3+ months of commercial testing experience**. I specialize in web application testing, test automation, and quality assurance.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
