@@ -87,6 +87,18 @@ QA specialist with **3+ months of commercial testing experience**. I specialize 
 
 ---
 
+<div align="center">
+
+| Сертификат | Организация | Год | Badge |
+|:---|:---|:---:|:---|
+| **SandBox Web** | Courses of Vadim Ksenzov | 2025 | ![ISTQB](https://img.shields.io/badge/ISTQB-Certified-blue?style=flat-square) |
+| **Software testing. Advanced course** | Courses of Artem Rusou | 2025 | ![Udemy](https://img.shields.io/badge/Udemy-Verified-EC5252?style=flat-square&logo=udemy) |
+| **SQL** | Far Eastern Federal University (FEFU) | 2022 | ![Degree](https://img.shields.io/badge/Bachelor%20of%20Science-Computer%20Science-teal?style=flat-square) |
+
+</div>
+
+---
+
 ## 📫 Contacts & Social Media
 
 <div align="center">
