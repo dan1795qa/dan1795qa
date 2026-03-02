@@ -89,7 +89,7 @@ QA specialist with **3+ months of commercial testing experience**. I specialize 
 
 <div align="center">
 
-| Сертификат | Организация | Год | Badge |
+| Sertificate | Organization | Год | Badge |
 |:---|:---|:---:|:---|
 | **SandBox Web** | Courses of Vadim Ksenzov | 2025 | ![SandBox Web](https://img.shields.io/badge/Certified-blue?style=flat-square) |
 | **Software testing. Advanced course** | Courses of Artem Rusou | 2025 | ![Software testing. Advanced course](https://img.shields.io/badge/Certified-blue?style=flat-square) |
